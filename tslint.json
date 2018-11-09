@@ -1,0 +1,14 @@
+{
+    "defaultSeverity": "error",
+//    "extends": [
+//        "tslint:recommended"
+//    ],
+    "jsRules": {},
+  "extends": [
+    "tslint-eslint-rules"
+  ],
+  "rules": {
+    "no-constant-condition": true
+  }
+//    "extends": "tslint-config-airbnb"
+}
